@@ -1,0 +1,42 @@
+
+
+.name {
+    color: white;
+    background: teal;
+    font-size: 24px;
+    margin: 0px;
+    text-align: center;
+    padding: 15px;
+}
+
+.nav {
+    color: grey;
+    font-size: 16px;
+    text-decoration: none;
+    padding: 20px;
+}
+
+a {
+    color: grey;
+    font-size: 16px;
+    text-decoration: none;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 24px;
+    color: teal;
+}
+
+.main {
+    background: lightgray;
+    font-size: 16px;
+    padding: 10px, 5px;
+}
+
+.social {
+    text-align: center;
+    padding: 10px, 5px;
+    background-color: lightgray;
+
+}
